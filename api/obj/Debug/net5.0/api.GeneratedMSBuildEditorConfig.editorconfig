@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = api
-build_property.ProjectDir = c:\Users\rysio\source\repos\Angular_Course\api\
+build_property.ProjectDir = c:\Users\krzys\source\repos\APNET_angular_Course\api\
